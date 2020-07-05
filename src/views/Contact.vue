@@ -1,7 +1,7 @@
 <template>
   <v-container>
-    <h1>About</h1>
-    <!-- contenido de la pagina ABOUT -->
+    <h1>Contact</h1>
+    <!-- contenido de la pagina Contact -->
   </v-container>
 </template>
 
@@ -9,5 +9,5 @@
 export default {};
 </script>
 <style lang="scss" scoped>
-// Estilos de la pagina About
+// Estilos de la pagina Contact
 </style>
